@@ -1,2 +1,2 @@
 # Spotify-Recommendation
-Recommendation System using neural net
+Recommendation System using autoencoder neural net
